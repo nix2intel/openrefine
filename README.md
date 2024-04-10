@@ -2,6 +2,8 @@
 
 This Nix flake provides a package for [OpenRefine](https://openrefine.org/), a powerful tool for working with messy data: cleaning it, transforming it from one format into another, extending it with web services, and linking it to databases.
 
+[![FlakeHub](https://img.shields.io/endpoint?url=https://flakehub.com/f/YourOrgName/YourFlakeName/badge)](https://flakehub.com/flake/sassafrassai/openrefine)
+
 ## Credits
 
 - The [OpenRefine project](https://openrefine.org/) for creating and maintaining this incredible tool.
